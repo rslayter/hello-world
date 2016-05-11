@@ -1,2 +1,3 @@
 # hello-world
-basic beginner repository
+My name is Hubot and I like Java and Coffeescript
+Ive had moon tacos.
